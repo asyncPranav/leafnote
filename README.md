@@ -2,6 +2,10 @@
 
 > A clean, fast, and beautifully designed notes web app built with **Node.js**, **Express.js**, **MongoDB**, and **EJS** — styled with **Tailwind CSS**.
 
+## Demo 
+
+Visit website here : [leafnote.onrender.com](https://leafnote.onrender.com)
+
 ## 📸 Preview
 
 ![Leafnote Preview](./screenshots/leafnote01.png)
